@@ -1,0 +1,64 @@
+[
+    {
+        "name":"iphoneX",
+        "price": 15440,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphoneX",
+        "price": 12540,
+       
+        "company":"apple"
+    },
+    {
+        "name":"samsung new-fold",
+        "price": 15540,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"realme15",
+        "price": 15520,
+        
+        "company":"realme"
+    },
+    {
+        "name":"samsung watch",
+        "price": 1540,
+     
+        "company":"samsung"
+    },
+    {
+        "name":"samsung fold",
+        "price": 15540,
+      
+        "company":"samsung"
+    },
+    {
+        "name":"iphone 15",
+        "price": 15540,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone watch",
+        "price": 16540,
+        
+        "company":"apple"
+    },
+    {
+        "name":"delllatitude",
+        "price": 17540,
+        
+        "company":"dell"
+    },
+    {
+        "name":"realme12",
+        "price": 15500,
+        "featured":true,
+        "company":"realme"
+    }
+    
+
+]
